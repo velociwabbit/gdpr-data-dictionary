@@ -19,7 +19,7 @@ The purpose of this repo therefore is to provide some degree of specifity to thi
 
 ## AI and other NLP search capabilities (Future)
 
-While it is useful to identify the location, magnitude and types of personal data within an organization a natural follow onis to provide a context free identification of personal data that does not reside in databases or source code. This will require word classification and text interpretation.  No doubt there are many AI based tools in this area that can be used as a development environment or end user app to provide this capability. Or if all else fails building a custom, specific machine learning app in this area is a possiblity. 
+While it is useful to identify the location, magnitude and types of personal data within an organization a natural follow on would be to provide context free identification of personal data not residing in databases or source code. This effort will require word classification and text interpretation.  No doubt there are many AI based tools that can be used as a development environment or end user app to provide this capability. Or if all else fails building a custom, specific machine learning app in this area is a possiblity. 
 
 ## Contributions
 
