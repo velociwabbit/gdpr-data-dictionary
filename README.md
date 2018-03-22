@@ -1,5 +1,5 @@
 # gdpr-data-dictionary
-*lists and taxonomy of synonyms, abbreviations, etc. for privacy data fields and supporting software to utilize them*
+*Lists and taxonomy of synonyms, abbreviations, etc. for privacy data fields and supporting software to utilize them*
 
 As Europe's General Data Protection Regulation (**GDPR**) [https://gdpr-info.eu/] becomes law in Europe there is a requirement to not only document steps taken to adhere to the law but also to acutally manage/control the information that is the basis of the law. **GDPR** consists of 88 pages of text about how to manage private data but only one paragraph consisting of 67 or so words that define what personal data actually is.
 
