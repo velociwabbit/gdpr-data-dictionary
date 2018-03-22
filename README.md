@@ -1,9 +1,9 @@
 # gdpr-data-dictionary
 *list with synonyms, abbreviation for privacy data fields and supporting software*
 
-As Europe's General Data Protection Regulation [https://gdpr-info.eu/] becomes law in Europe there is a requirement to not only document steps taken to adhere to the law but also to acutally manage/control the information that is the basis of the law.  This regulation consists of 88 pages of text about how to manage private data but only one paragraph consisting of 67 or so words that define what personal data actually is.
+As Europe's General Data Protection Regulation (**GDPR**) [https://gdpr-info.eu/] becomes law in Europe there is a requirement to not only document steps taken to adhere to the law but also to acutally manage/control the information that is the basis of the law. **GDPR** consists of 88 pages of text about how to manage private data but only one paragraph consisting of 67 or so words that define what personal data actually is.
 
-> ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+> *‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;*
 
 
 
