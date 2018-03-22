@@ -9,7 +9,7 @@ As Europe's General Data Protection Regulation [https://gdpr-info.eu/] becomes l
 
 The purpose of this repo therefore is to provide some degree of specifity to this definition in order to identify privacy data within an organization.
 
-##Targeted Initial Release Components 
+## Targeted Initial Release Components 
 
 1. A JSON specified and growing  list of terms used to define private data in databases and other locations
 2. A set of Node based query and update tools to upload the JSON into various databases.
@@ -17,11 +17,11 @@ The purpose of this repo therefore is to provide some degree of specifity to thi
 4. A set of schema query tools to search in various databases for items that match the terms in the data dictionary. 
 5. A set of bash (grep), windows cmd and Node based text searching tool scripts to identify the same privacy data definitions in source code.
 
-##AI and other NLP search capabilities (Future)
+## AI and other NLP search capabilities (Future)
 
 While it is useful to identify the location, magnitude and types of personal data within an organization a natural follow onis to provide a context free identification of personal data that does not reside in databases or source code. This will require word classification and text interpretation.  No doubt there are many AI based tools in this area that can be used as a development environment or end user app to provide this capability. Or if all else fails building a custom, specific machine learning app in this area is a possiblity. 
 
-##Contributions
+## Contributions
 
 There are several key areas that need crowd sourcing  for this project to be effective. They are as follows:
 
@@ -30,4 +30,25 @@ There are several key areas that need crowd sourcing  for this project to be eff
 3.  Database access and loading software for old school repositories such as the IBM EBCIDEC universe (MVS,IMS,CICS ...), HP, Unisys etc
 4.  Tools and technologies to make this proccess less painful
 5.  Instructions and how to guides as needed for using the software
+
+## Installation
+
+Make sure you have Node.js installed on your computer
+
+`npm install`
+
+To run any  javascript module such as somename.js in the repository 
+
+`node  somename.js`
+
+If you want to debug the same js file
+
+`node --inspect-brk  somename.js`
+
+Then open chrome with the url chrome://inspect and follow the chrome inspector directions for the rest
+
+Other non Node scripts and code will have separate instructions
+
+
+
 
