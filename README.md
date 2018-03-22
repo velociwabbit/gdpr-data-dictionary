@@ -1,13 +1,12 @@
 # gdpr-data-dictionary
 *Lists and taxonomy of synonyms, abbreviations, etc. for privacy data fields and supporting software to utilize them*
 
-As the EU's General Data Protection Regulation (**GDPR**) https://gdpr-info.eu/ becomes law it will impact any entity world-wide that has a presence in the EU.  **GDPR**   requires not only to document steps taken to adhere to the law but also to acutally manage/control the information that is the basis of the law itself. **GDPR** consists of 88 pages of text about how to manage private data but only one paragraph consisting of 67 or so words that define what personal data actually is.
+When the EU's General Data Protection Regulation (**GDPR**) https://gdpr-info.eu/ becomes law it will impact any entity world-wide that has a presence in the EU.  **GDPR**   requires both documenting steps taken to adhere to the law and managing/controlling the entire lifecycle of personal data. Regrettably  **GDPR** consists of 88 pages of text about how to manage private data but only one paragraph consisting of 67 or so words that define what personal data actually is. 
 
 > *‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;*
 
 
-
-The purpose of this repo therefore is to provide some degree of specifity to this definition in order to identify privacy data within an organization.
+The purpose of this repo therefore is to provide some degree of specifity to this definition in order to identify salient personal data within an organization.
 
 ## Targeted Initial Release Components 
 
