@@ -1,21 +1,21 @@
-{ acccode             : { defn :  "Access Code"                             , syns : ['AccCode'          ,'accesscode' ,'access','acode','access_code'] }
-, acchis              : { defn :  "Account History"                         , syns : ['AccHis'           ,'acchis' , 'accounthistory' , 'acthistory' , 'ahistory'  ] }
-, accounnum           : { defn :  "Account Number"                          , syns : ['AccounNum'        ,'acctnum' , 'account' , 'anum' , 'actno'  ] }
-, address             : { defn :  "Address"                                 , syns : ['Address'          ,'address' , 'addr' , 'adr'  ] }
-, age                 : { defn :  "Age"                                     , syns : ['Age'              ,'age' , 'dob'   ] }
-, alias               : { defn :  "Alias"                                   , syns : ['Alias'            ,'alias' , 'othername'   ] }
-, alienregnum         : { defn :  "Alien Registration Number"               , syns : ['AlienRegNum'      ,'alienrn' , '' , '' , ''  ] }
-, appellationcode     : { defn :  "Appellation Code"                        , syns : ['AppellationCode'  , '' , '' , '' , ''  ] }
-, applhist            : { defn :  "Appl and Claims Hist, Appeals Recs."     , syns : ['ApplHist'         , '' , '' , '' , ''  ] }
-, applname            : { defn :  "Application Name"                        , syns : ['ApplName'         , '' , '' , '' , ''  ] }
-, applnum             : { defn :  "Application Number/e-form number"        , syns : ['ApplNum'          , '' , '' , '' , ''  ] }
-, applregnum          : { defn :  "Application Registration Number"         , syns : ['ApplRegNum'       , '' , '' , '' , ''  ] }
-, areacode            : { defn :  "Area Code"                               , syns : ['AreaCode'         , '' , '' , '' , ''  ] }
-, attendancedate      : { defn :  "Dates of Attendance"                     , syns : ['AttendanceDate'   , '' , '' , '' , ''  ] }
-, awards              : { defn :  "Awards "                                 , syns : ['Awards'           , '' , '' , '' , ''  ] }
-, barcodenum          : { defn :  "Barcode Number"                          , syns : ['BarcodeNum'       , '' , '' , '' , ''  ] }
-, bidopendate         : { defn :  "Bid Opening Date"                        , syns : ['BidOpenDate'      , '' , '' , '' , ''  ] }
-, billinfo            : { defn :  "Billing Information at the Clinic"       , syns : ['BillInfo'         , '' , '' , '' , ''  ] }
+{ acccode             : { defn :  "Access Code"                             , syns : ['AccCode'          , 'accesscode'             ,'access'           ,'acode'        ,'access_code'] }
+, acchis              : { defn :  "Account History"                         , syns : ['AccHis'           , 'acchis'                 , 'accounthistory'  , 'acthistory'  , 'ahistory'  ] }
+, accounnum           : { defn :  "Account Number"                          , syns : ['AccounNum'        , 'acctnum'                , 'account'         , 'anum'        , 'actno'     ] }
+, address             : { defn :  "Address"                                 , syns : ['Address'          , 'address'                , 'addr'            , 'street'      , 'adr'       ] }
+, age                 : { defn :  "Age"                                     , syns : ['Age'              , 'age'                    , 'dob'             ,'dateofbirth'  , ''          ] }
+, alias               : { defn :  "Alias"                                   , syns : ['Alias'            , 'alias'                  , 'othername'       , 'maiden'      ,'maidename'  ] }
+, alienregnum         : { defn :  "Alien Registration Number"               , syns : ['AlienRegNum'      , 'alienrn'                , 'arn'             , 'alienreg'    , 'aregno'    ] }
+, appellationcode     : { defn :  "Appellation Code"                        , syns : ['AppellationCode'  , 'applcode'               , 'appel'           , 'acode'       , ''          ] }
+, applhist            : { defn :  "Appl and Claims Hist, Appeals Recs."     , syns : ['ApplHist'         , 'applicationhistory'     , 'applhistory'     , 'history'     , ''          ] }
+, applname            : { defn :  "Application Name"                        , syns : ['ApplName'         , 'applicationname'        , 'name'            , 'aname'       , ''          ] }
+, applnum             : { defn :  "Application Number/e-form number"        , syns : ['ApplNum'          , 'applicationnumber'      , 'applno'          , 'number'      , 'num'       ] }
+, applregnum          : { defn :  "Application Registration Number"         , syns : ['ApplRegNum'       , 'applicationregnumber'   , 'appregno'        , 'regappnum'   , 'regnum'    ] }
+, areacode            : { defn :  "Area Code"                               , syns : ['AreaCode'         , 'ac'                     , 'area'            , 'acode'       , 'areac'     ] }
+, attendancedate      : { defn :  "Dates of Attendance"                     , syns : ['AttendanceDate'   , 'attenddates'            , 'dateattends'     , 'dateasttend' , 'dates'     ] }
+, awards              : { defn :  "Awards "                                 , syns : ['Awards'           , 'awds'                   , 'award'           , 'rewards'     , 'wins'      ] }
+, barcodenum          : { defn :  "Barcode Number"                          , syns : ['BarcodeNum'       , 'bcn'                    , 'isbn'            , 'barcode'     , 'bcode'     ] }
+, bidopendate         : { defn :  "Bid Opening Date"                        , syns : ['BidOpenDate'      , 'opendate'               , 'bidopen'         , 'open'        , 'biddate'   ] }
+, billinfo            : { defn :  "Billing Information at the Clinic"       , syns : ['BillInfo'         , 'billinginfo'            , 'clinicbill'      , 'billdata'    , 'billto'    ] }
 , biomrec             : { defn :  "Biometric Records"                       , syns : ['BiomRec'          , '' , '' , '' , ''  ] }
 , birthplace          : { defn :  "Birth place (country/state/city)"        , syns : ['Birthplace'       , '' , '' , '' , ''  ] }
 , cardcode            : { defn :  "Card Validation Codes / Values"          , syns : ['CardCode'         , '' , '' , '' , ''  ] }
